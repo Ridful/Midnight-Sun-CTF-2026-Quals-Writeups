@@ -1,8 +1,6 @@
-# CTF Writeup: sanity
+# CTF Writeup: s4n1ty
 
 **Category:** Misc / Sanity Check
-
-**Points:** 91
 
 **Author:** @quend
 
